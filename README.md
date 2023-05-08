@@ -22,7 +22,7 @@ Please refer to the LICENSE in the repo.
 
 ## Link
 
-https://github.com/mubarak24/Note-Collector
+https://note-collector.herokuapp.com/ 
 
 ## Screenshots
 
